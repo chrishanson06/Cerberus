@@ -1,0 +1,3 @@
+#!/bin/activate
+
+npm install
